@@ -6,18 +6,23 @@ This is a responsive and professional financial calculator web app built using *
 
 ## 🧮 Included Calculators
 
-1. **EMI Calculator**
-2. **SIP Calculator**
-3. **Lumpsum Calculator**
-4. **Buy vs Rent Calculator**
-5. **Car vs Commute Calculator**
-6. **Endowment Calculator**
-7. **Fixed Deposit (FD) Calculator**
-8. **Recurring Deposit (RD) Calculator**
-9. **PPF Calculator**
-10. **NPS Calculator**
-11. **Retirement Calculator**
-12. **Child Education Planner**
+1. **EMI Calculator**  
+2. **SIP Calculator**  
+3. **Lumpsum Investment Calculator**  
+4. **Buy vs Rent Calculator**  
+5. **Car vs Commute Calculator**  
+6. **Endowment Plan Calculator**  
+7. **Fixed Deposit (FD) Calculator**  
+8. **Recurring Deposit (RD) Calculator**  
+9. **HRA Calculator**  
+10. **Gratuity Calculator**  
+11. **PPF Calculator**  
+12. **NPS Calculator**  
+13. **Income Tax Calculator**  
+14. **Retirement Planning Calculator**  
+15. **Advance Tax Calculator**
+
+---
 
 ---
 
