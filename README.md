@@ -1,56 +1,83 @@
-# 💰 Financial Calculators Suite
+# 💰 Financial Calculator Suite
 
-A modern, professional, and responsive web app featuring 12 essential financial calculators. Designed with a clean UI using Tailwind CSS and built with Vite + Vanilla JavaScript, this suite helps users make smart financial decisions.
+This is a responsive and professional financial calculator web app built using **HTML**, **Tailwind CSS**, and **JavaScript**. It contains 12 everyday-use calculators, each with its own dedicated page and consistent UI design. The dashboard follows a card layout and clicking “Calculate” takes users to the detailed form for each calculator.
 
+---
 
 ## 🧮 Included Calculators
 
-- EMI Calculator  
-- SIP Calculator  
-- Lumpsum Calculator  
-- Buy vs. Rent  
-- Car vs. Commute  
-- Endowment Plan  
-- Fixed Deposit (FD)  
-- Recurring Deposit (RD)  
-- Retirement Planning  
-- Child Education Planning  
-- Goal Planning  
-- Tax Savings Calculator  
+1. **EMI Calculator**
+2. **SIP Calculator**
+3. **Lumpsum Calculator**
+4. **Buy vs Rent Calculator**
+5. **Car vs Commute Calculator**
+6. **Endowment Calculator**
+7. **Fixed Deposit (FD) Calculator**
+8. **Recurring Deposit (RD) Calculator**
+9. **PPF Calculator**
+10. **NPS Calculator**
+11. **Retirement Calculator**
+12. **Child Education Planner**
 
+---
 
-
-## 📂 Project Structure
+## 🗂 Folder Structure
 
 ```
-financial-calculators-suite/
-├── index.html
-├── /src
-│   ├── /pages
-│   │   └── [Individual calculators]
-│   ├── /components
-│   └── main.js
-├── /public
-├── tailwind.config.js
-└── package.json
+FinancialCalculator/
+├── index.html                 # Dashboard showing all 12 calculators
+├── /calculators/             # All individual calculators are in this folder
+│   ├── emi.html
+│   ├── sip.html
+│   ├── lumpsum.html
+│   ├── buyvsrent.html
+│   ├── carvstravel.html
+│   ├── endowment.html
+│   ├── fd.html
+│   ├── rd.html
+│   ├── ppf.html
+│   ├── nps.html
+│   ├── retirement.html
+│   └── childedu.html
+├── /css/
+│   └── style.css             # Tailwind CSS styles
+├── /js/
+│   ├── emi.js
+│   ├── sip.js
+│   ├── lumpsum.js
+│   ├── buyvsrent.js
+│   ├── carvstravel.js
+│   ├── endowment.js
+│   ├── fd.js
+│   ├── rd.js
+│   ├── ppf.js
+│   ├── nps.js
+│   ├── retirement.js
+│   └── childedu.js
+├── /assets/
+│   └── (Images, icons, illustrations)
+├── README.md
 ```
 
+---
 
 
-## 🛠️ Tech Stack
 
-- ✅ Vite  
-- ✅ Tailwind CSS  
-- ✅ Vanilla JavaScript  
-- ✅ HTML5  
+## 🛠 Tech Stack
 
+- HTML5  
+- Tailwind CSS  
+- Vanilla JavaScript  
+- GitHub Pages (for deployment)
+
+---
 
 
 ## 📦 Setup Instructions
 
 1. Clone the repo:
    ```bash
-   git clone repository url
+   git clone https://github.com/Bafnavanshita/FinancialCalculator.git
    ```
 2. Navigate to the project:
    ```bash
@@ -65,13 +92,5 @@ financial-calculators-suite/
    npm run dev
    ```
 
-
-## ✨ Features
-
-- Clean and modern UI
-- Fully responsive design
-- Optimized for performance
-- Easy to scale or add new calculators
-- No external dependencies beyond Tailwind & Vite
 
 
