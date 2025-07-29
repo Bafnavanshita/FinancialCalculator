@@ -98,10 +98,10 @@ FinancialCalculator/
    ```
 5.  Open in browser:
    ```bash
-   Once the development server starts, open your browser and go to:
-   http://localhost:3000
-   ⚠️ If port 3000 is busy, the terminal will suggest an alternative port — follow the link it shows.
+      Once the development server starts, open your browser and go to:
+      http://localhost:3000
    ```
+      ⚠️ If port 3000 is busy, the terminal will suggest an alternative port, follow the link it shows.
   
 
 
